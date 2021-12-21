@@ -15,7 +15,8 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       drawer: drawer(context),
-      // Drawer(
+      // Drawer( git config --global user.name "aaqaaaaaaaa"
+      // git config --global user.email "jalolxonkamolxonov@gmail.com"
       //   child: ListView(
       //     padding: EdgeInsets.zero,
       //     children: [
